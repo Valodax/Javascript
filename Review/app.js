@@ -18,7 +18,7 @@ const reviews = [
         name: "Catherine",
         job: "Financial Analyst",
         img: "https://i.pinimg.com/736x/32/23/be/3223be5aa0554f7bdc75e74de2a0cbfd.jpg",
-        text: "I put cheese on my crackers because I love salty tasting things in my mouth.",
+        text: "I put cheese on my crackers because I love eating salty things.",
     },
     {
         id: 4,
