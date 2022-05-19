@@ -25,7 +25,7 @@ const reviews = [
         name: "Daniel",
         job: "Retail Associate",
         img: "https://en.unesco.org/gem-report/sites/default/files/CGP_20190717110842_17_0.jpg",
-        text: "Blue cheese is my favourite type of cheese because it reminds me of my socks.",
+        text: "Blue cheese is my favourite cheese because it reminds me of my socks.",
     },
 
 ];
