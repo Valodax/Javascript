@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <header className="header">
             <img
-                src="https://assets.stickpng.com/images/580b585b2edbce24c47b2a2a.png"
+                src="https://i.pinimg.com/474x/32/f4/1e/32f41e2bf549ae7c022902cdd09c9e59.jpg"
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
