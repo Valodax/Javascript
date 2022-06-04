@@ -1,1 +1,1 @@
-<h1> A collection of my various Javascript, NodeJS and ReactJS projects</h1>
+<h1> A collection of my various Javascript and ReactJS projects</h1>
